@@ -26,3 +26,6 @@
   align-items: center;
   justify-content: center;
 }
+.overflowHidden {
+  overflow: hidden;
+}
